@@ -1,4 +1,4 @@
-# Solar-Panel-Efficiency-Precition# 🔆 Solar Panel Efficiency Prediction
+# Solar-Panel-Efficiency-Prediction# 🔆 Solar Panel Efficiency Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange)
